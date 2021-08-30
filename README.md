@@ -16,7 +16,7 @@
 
 - 📫 You can reach at **devanshdwivedi68@gmail.com**
 
-- ⚡ Fun fact **Code Bots being a Botter myself**
+- ⚡ Fun fact **I Code Bots being a Botter myself**
 
 ## 🚀 Languages and Tools:
 
