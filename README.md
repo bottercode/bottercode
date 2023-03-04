@@ -50,9 +50,9 @@ Hi, I'm Devansh Dwivedi from India , currently i am a sophomore year Student @Ki
   
 ### GitHub stats
   
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manavsiddharthgupta?cardType=level&theme=react)](https://git.io/awesome-stats-card)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/devanshdwivedi?cardType=level&theme=react)](https://git.io/awesome-stats-card)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavsiddharthgupta&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devanshdwivedi&theme=solarized_dark)
 
 <br>
 
