@@ -46,14 +46,3 @@ Hi, I'm Devansh Dwivedi from India , currently i am a sophomore year Student @Ki
 <a target="_blank" rel="noopener noreferrer" href="https://developer.android.com/studio?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROMMcEoWq6l6-C3MuqzeM4JOJUOjmj85qhQPBaXDvhyVNH8wI2W8pK8aAiFuEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"  height=20; style="max-width: 100%;"></a>
 <br>
 <br>
-
-  
-### GitHub stats
-  
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/devanshdwivedi?cardType=level&theme=react)](https://git.io/awesome-stats-card)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devanshdwivedi&theme=solarized_dark)
-
-<br>
-
-<img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" data-canonical-src="https://imgur.com/rilHVxA.png" style="max-width: 100%;">
