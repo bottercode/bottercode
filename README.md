@@ -2,7 +2,7 @@
 
 <strong> Hey there <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;"> </strong>
 
-<img align="right" src="[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://media.giphy.com/media/eCwAEs05phtK/giphy.gif)" alt="gif" width="550" height="380"/> 
+<img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
 
 Hi, I'm Devansh Dwivedi from India , currently i am a sophomore year Student @Kiit. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. I 'm also an open source enthusiast.
 <br>
