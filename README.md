@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
 
-Hi, I'm Devansh Dwivedi from India , currently i am a sophomore year Student @Kiit. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. I 'm also an open source enthusiast.
+Hi, I'm Devansh Dwivedi from India. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. I 'm also an open source enthusiast.
 <br>
 
 ### I'm Familiar with
