@@ -10,7 +10,6 @@ Hi, I'm Devansh Dwivedi from India, a guy building and breaking things.
 ### I'm Familiar with
 * 🖥️ Backend Developer
 * 🧑‍💻 Dev-ops
-* ⌨️ Data Structure & Algorithm 
 
 ### Connect With Me
 <p align="left">
