@@ -1,4 +1,4 @@
-## Hey there src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif"
+## Hey there!
 
 <!-- <strong> Hey there <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;"> </strong> -->
 
