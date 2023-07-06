@@ -12,7 +12,6 @@ Hi, I'm Devansh Dwivedi, your tech companion with a knack for building tools tha
 
 - *music*
 - *surfing for more tools*
-- *cerebral expansion* 😅
 
 <br>
 
