@@ -8,12 +8,6 @@ Hi, I'm Devansh Dwivedi, your tech companion with a knack for building tools tha
 <br>
 <br>
 
-<p><strong><em>Productive Distractions</em></strong></p>
-
-- *music*
-- *surfing for more tools*
-
-<br>
 
   
 ### Connect With Me
